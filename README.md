@@ -9,3 +9,7 @@ Javascript tools
 - [uppy](https://github.com/transloadit/uppy)
 
   The next open source file uploader for web browsers 🐶 https://uppy.io
+
+- [pnotify](https://github.com/sciactive/pnotify)
+
+  Beautiful JavaScript notifications with Web Notifications support. https://sciactive.com/pnotify/

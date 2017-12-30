@@ -21,3 +21,7 @@ Javascript tools
 - [yui](https://yuilibrary.com/)
 
   YUI is a free, open source JavaScript and CSS library for building richly interactive web applications.
+
+- [pixijs](http://www.pixijs.com/)
+
+  The HTML5 Creation Engine

@@ -17,3 +17,7 @@ Javascript tools
 - [datatables](https://datatables.net)
 
   DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
+
+- [yui](https://yuilibrary.com/)
+
+  YUI is a free, open source JavaScript and CSS library for building richly interactive web applications.

@@ -25,3 +25,7 @@ Javascript tools
 - [pixijs](http://www.pixijs.com/)
 
   The HTML5 Creation Engine
+
+- [Detect Mobile Browsers](http://detectmobilebrowsers.com/)
+
+  Open source mobile phone detection

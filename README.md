@@ -1,6 +1,6 @@
 # Front-end
 
-- [javascript](#javascript)
+- [Javascript](#javascript)
 - [CSS](#css)
 
 ## Javascript

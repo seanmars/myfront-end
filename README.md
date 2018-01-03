@@ -38,7 +38,16 @@ Javascript tools
 - [layer](https://github.com/sentsin/layer/)
 
   丰富多样的 Web 弹出层组件，可轻松实现 Alert/Confirm/Prompt/ 普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案 http://layer.layui.com
-  
+
+### 2D
+
+- [Pixi.js](http://www.pixijs.com/)
+- [Phaser](http://phaser.io/)
+- [Create.js](https://www.createjs.com/)
+
+### 3D
+
+- [three.js](https://threejs.org/)
   
 ## Css
 

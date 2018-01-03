@@ -1,7 +1,14 @@
 # Front-end
 
+- [Tools](#tools)
 - [Javascript](#javascript)
 - [CSS](#css)
+
+## Tools
+
+- [stylelint](https://stylelint.io/)
+
+  A mighty, modern CSS linter and fixer that helps you avoid errors and enforce consistent conventions in your stylesheets.
 
 ## Javascript
 

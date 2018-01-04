@@ -2,7 +2,7 @@
 
 - [Tools](#tools)
 - [Javascript](#javascript)
-  - [dialog / alert / notification](#dialog%20%2F%20alert%20%2F%20notification)
+  - [dialog / alert / notification](#dialog--alert--notification)
   - [2D](#2d)
   - [3D](#3d)
 - [CSS](#css)

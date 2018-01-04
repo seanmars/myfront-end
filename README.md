@@ -50,6 +50,32 @@ Javascript tools
 
   Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts. https://ghbtns.com
 
+### dialog / alert / notification
+
+- [SweetAlert ](https://github.com/t4t5/sweetalert)
+
+  A beautiful replacement for JavaScript's "alert" https://sweetalert.js.org
+  
+- [vex](https://github.com/HubSpot/vex)
+
+  A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
+  
+- [Bootbox](https://github.com/makeusabrew/bootbox)
+
+  Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework http://bootboxjs.com
+  
+- [Modaal](https://github.com/humaan/Modaal)
+
+  An accessible dialog window library for all humans. http://humaan.com/modaal/
+
+- [NOTY](https://github.com/needim/noty)
+
+  Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog. https://ned.im/noty
+  
+- [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
+
+  A javascript framework for developing pretty browser dialogs and notifications. http://www.alertifyjs.com
+
 ### 2D
 
 - [Pixi.js](http://www.pixijs.com/)

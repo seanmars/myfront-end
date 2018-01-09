@@ -12,6 +12,10 @@
 - [stylelint](https://stylelint.io/)
 
   A mighty, modern CSS linter and fixer that helps you avoid errors and enforce consistent conventions in your stylesheets.
+  
+- [parcel](https://github.com/parcel-bundler/parcel)
+
+  📦🚀 Blazing fast, zero configuration web application bundler https://parceljs.org
 
 ## Javascript
 

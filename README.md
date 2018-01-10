@@ -2,9 +2,10 @@
 
 - [Dev](#dev)
 - [Javascript](#javascript)
-  - [dialog / alert / notification](#dialog--alert--notification)
-  - [2D](#2d)
-  - [3D](#3d)
+  - [Js-dialog / alert / notification](#js-dialog--alert--notification)
+  - [Js-Animation](#js-animation)
+  - [Js-2D](#js-2d)
+  - [Js-3D](#js-3d)
 - [CSS](#css)
 
 ## Dev

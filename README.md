@@ -20,6 +20,14 @@
 - [storybook](https://github.com/storybooks/storybook)
 
   Interactive UI component dev & test: React, React Native, Vue, Angular https://storybook.js.org
+  
+- [Prettier](https://github.com/prettier/prettier)
+
+  Prettier is an opinionated code formatter. https://prettier.io/
+  
+- [Jest](https://facebook.github.io/jest/)
+
+  Delightful JavaScript Testing. http://facebook.github.io/jest/
 
 ## Javascript
 

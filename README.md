@@ -95,6 +95,16 @@ Javascript tools
 
   A javascript framework for developing pretty browser dialogs and notifications. http://www.alertifyjs.com
 
+- [immutable-js](https://github.com/facebook/immutable-js/)
+
+  Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/
+  
+### Animation
+
+  - [Popmotion](https://github.com/popmotion/popmotion)
+  
+  The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking. https://popmotion.io
+
 ### 2D
 
 - [Pixi.js](http://www.pixijs.com/)

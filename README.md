@@ -70,7 +70,7 @@ Javascript tools
 
   Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts. https://ghbtns.com
 
-### dialog / alert / notification
+### Js-dialog / alert / notification
 
 - [SweetAlert ](https://github.com/t4t5/sweetalert)
 
@@ -100,19 +100,19 @@ Javascript tools
 
   Immutable persistent data collections for Javascript which increase efficiency and simplicity. http://facebook.github.io/immutable-js/
   
-### Animation
+### Js-Animation
 
   - [Popmotion](https://github.com/popmotion/popmotion)
   
   The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking. https://popmotion.io
 
-### 2D
+### Js-2D
 
 - [Pixi.js](http://www.pixijs.com/)
 - [Phaser](http://phaser.io/)
 - [Create.js](https://www.createjs.com/)
 
-### 3D
+### Js-3D
 
 - [three.js](https://threejs.org/)
   

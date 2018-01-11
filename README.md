@@ -69,7 +69,15 @@ Javascript tools
 - [GitHub buttons](https://github.com/mdo/github-buttons)
 
   Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts. https://ghbtns.com
+ 
+- [TOAST UI Editor](https://github.com/nhnent/tui.editor)
 
+  Markdown WYSIWYG Editor - Productive and Extensible https://nhnent.github.io/tui.editor
+  
+- [Handsontable](https://github.com/handsontable/handsontable)
+
+  Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps https://handsontable.com
+  
 ### Js-dialog / alert / notification
 
 - [SweetAlert ](https://github.com/t4t5/sweetalert)

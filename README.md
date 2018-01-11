@@ -34,10 +34,7 @@
 
 Javascript tools
 
-- [nhnent](https://github.com/nhnent)
-
-  Some tools from NHN Entertainment
-  
+- [nhnent](https://github.com/nhnent) Some tools from NHN Entertainment
   - [tui.date-picker](https://github.com/nhnent/tui.date-picker)
   - [tui.editor](https://github.com/nhnent/tui.editor)
   - [tui.time-picker](https://github.com/nhnent/tui.time-picker)

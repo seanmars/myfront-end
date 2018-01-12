@@ -93,7 +93,11 @@ Javascript tools
 - [Handsontable](https://github.com/handsontable/handsontable)
 
   Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps https://handsontable.com
-  
+
+- [Particleground](https://github.com/jnicol/particleground)
+
+  A jQuery plugin for snazzy background particle systems
+
 ### Js-dialog / alert / notification
 
 - [SweetAlert ](https://github.com/t4t5/sweetalert)

@@ -98,6 +98,12 @@ Javascript tools
 
   A jQuery plugin for snazzy background particle systems
 
+### Charts
+
+- [echarts](https://github.com/ecomfe/echarts)
+
+  A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/
+
 ### Js-dialog / alert / notification
 
 - [SweetAlert ](https://github.com/t4t5/sweetalert)

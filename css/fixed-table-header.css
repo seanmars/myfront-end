@@ -1,0 +1,16 @@
+.table > tbody {
+    display: block;
+    overflow: auto;
+    height: 800px;
+}
+
+.table > thead,
+.table > tbody tr {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.table > thead {
+    width: calc(100% - 1em)
+}

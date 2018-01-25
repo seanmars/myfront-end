@@ -12,5 +12,5 @@
 }
 
 .table > thead {
-    width: calc(100% - 1em)
+    width: 100%;
 }

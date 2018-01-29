@@ -6,6 +6,7 @@
   - [Js-Animation](#js-animation)
   - [Js-2D](#js-2d)
   - [Js-3D](#js-3d)
+  - [Js-File](#js-file)
 - [CSS](#css)
 
 ## Dev
@@ -149,6 +150,10 @@ Javascript tools
 ### Js-3D
 
 - [three.js](https://threejs.org/)
+
+### JS-File
+
+- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
   
 ## Css
 

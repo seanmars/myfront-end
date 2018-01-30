@@ -165,3 +165,4 @@ Javascript tools
 
   Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension. https://ibm.github.io/css-gridish/
   
+- [bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch)

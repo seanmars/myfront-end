@@ -154,6 +154,8 @@ Javascript tools
 ### JS-File
 
 - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
+- [fine-uploader](https://fineuploader.com/index.html)
+- [Dropzone.js](https://github.com/enyo/dropzone/)
   
 ## Css
 

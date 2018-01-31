@@ -1,3 +1,4 @@
+[TOC]
 # Javascript CheatSheet
 
 ## location/host

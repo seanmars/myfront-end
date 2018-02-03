@@ -101,8 +101,12 @@ Javascript tools
 
 ### Charts
 
-- [echarts](https://github.com/ecomfe/echarts)
+- [D3.js](https://d3js.org)
 
+  D3.js is a JavaScript library for manipulating documents based on data.
+  
+- [echarts](https://github.com/ecomfe/echarts)
+  
   A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/
 
 ### Js-dialog / alert / notification

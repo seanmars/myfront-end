@@ -176,3 +176,7 @@ Javascript tools
   Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension. https://ibm.github.io/css-gridish/
   
 - [bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch)
+
+- [AdminLTE](https://adminlte.io/)
+
+  Best open source admin dashboard & control panel theme. Built on top of Bootstrap 3, AdminLTE provides a range of responsive, reusable, and commonly used components.

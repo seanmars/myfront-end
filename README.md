@@ -99,6 +99,11 @@ Javascript tools
 
   A jQuery plugin for snazzy background particle systems
 
+- Lightbox
+  - [fancybox](https://github.com/fancyapps/fancybox)
+  - [Lightbox](https://github.com/lokesh/lightbox2)
+  - [Featherlight](https://github.com/noelboss/featherlight/)
+
 ### Charts
 
 - [D3.js](https://d3js.org)

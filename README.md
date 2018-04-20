@@ -185,3 +185,7 @@ Javascript tools
 - [AdminLTE](https://adminlte.io/)
 
   Best open source admin dashboard & control panel theme. Built on top of Bootstrap 3, AdminLTE provides a range of responsive, reusable, and commonly used components.
+
+- [Shoelace.css](https://github.com/claviska/shoelace-css)
+  
+  Shoelace.css is a lightweight, forward-thinking CSS library built with future CSS syntax. It’s easy to use and highly customizable. Bootstrap users will find it familiar, yet refreshing.

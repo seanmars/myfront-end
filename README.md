@@ -189,3 +189,7 @@ Javascript tools
 - [Shoelace.css](https://github.com/claviska/shoelace-css)
   
   Shoelace.css is a lightweight, forward-thinking CSS library built with future CSS syntax. It’s easy to use and highly customizable. Bootstrap users will find it familiar, yet refreshing.
+
+- [ModularAdmin](https://github.com/modularcode/modular-admin-html)
+
+  ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version

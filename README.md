@@ -193,3 +193,7 @@ Javascript tools
 - [ModularAdmin](https://github.com/modularcode/modular-admin-html)
 
   ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
+
+- [Materialize](https://github.com/dogfalo/materialize/)
+
+  Materialize, a CSS Framework based on Material Design http://materializecss.com

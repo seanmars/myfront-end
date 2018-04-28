@@ -104,6 +104,10 @@ Javascript tools
   - [Lightbox](https://github.com/lokesh/lightbox2)
   - [Featherlight](https://github.com/noelboss/featherlight/)
 
+- [HAMMER.JS](https://github.com/hammerjs/hammer.js)
+
+  A javascript library for multi-touch gestures :// You can touch this http://hammerjs.github.io
+
 ### Charts
 
 - [D3.js](https://d3js.org)

@@ -108,6 +108,10 @@ Javascript tools
 
   A javascript library for multi-touch gestures :// You can touch this http://hammerjs.github.io
 
+- [layerJS](https://github.com/layerJS/layerJS)
+
+  layerJS: Javascript UI composition framework https://layerjs.org
+  
 ### Charts
 
 - [D3.js](https://d3js.org)

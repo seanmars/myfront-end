@@ -112,6 +112,18 @@ Javascript tools
 - [layerJS](https://github.com/layerJS/layerJS)
 
   layerJS: Javascript UI composition framework https://layerjs.org
+
+- [treant-js](http://fperucic.github.io/treant-js/)
+  
+  JavaScipt library for visualization of tree diagrams
+  
+- [raphael](http://dmitrybaranovskiy.github.io/raphael/)
+  
+  Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web.
+
+- [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar)
+  
+  Minimalistic but perfect custom scrollbar plugin.
   
 ### Charts
 

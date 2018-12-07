@@ -218,6 +218,7 @@ Javascript tools
 ## Style framework
 
 - [bootstrap](http://getbootstrap.com)
+- [blume](https://bulma.io/)
 - [foundation](https://foundation.zurb.com)
 - [semantic-ui](https://semantic-ui.com)
 - [purecss](https://purecss.io)

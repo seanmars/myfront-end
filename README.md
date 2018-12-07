@@ -228,3 +228,4 @@ Javascript tools
 - [materialize](https://materializecss.com)
 - [milligram](https://milligram.io/)
 - [jeet](http://jeet.gs/)
+- [spectre](https://github.com/picturepan2/spectre)

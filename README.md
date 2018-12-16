@@ -134,6 +134,10 @@ Javascript tools
 - [echarts](https://github.com/ecomfe/echarts)
   
   A powerful, interactive charting and visualization library for browser http://echarts.baidu.com/
+  
+- [billboard.js](https://github.com/naver/billboard.js)
+
+- [amCharts](https://www.amcharts.com/)
 
 ### Js-dialog / alert / notification
 

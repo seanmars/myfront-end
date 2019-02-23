@@ -38,7 +38,7 @@ Javascript tools
 
 - [cleave.js](https://nosir.github.io/cleave.js)
 
-  Format your <input/> content when you are typing
+  Format your \<input\/\> content when you are typing
 
 - [nhnent](https://github.com/nhnent) Some tools from NHN Entertainment
   - [tui.date-picker](https://github.com/nhnent/tui.date-picker)

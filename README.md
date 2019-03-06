@@ -36,6 +36,10 @@
 
 Javascript tools
 
+- [imaskjs](https://unmanner.github.io/imaskjs)
+
+  vanilla javascript input mask
+
 - [cleave.js](https://nosir.github.io/cleave.js)
 
   Format your \<input\/\> content when you are typing

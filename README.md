@@ -36,6 +36,7 @@
 
 Javascript tools
 
+- [moveTo](https://github.com/hsnaydd/moveTo)
 - [imaskjs](https://unmanner.github.io/imaskjs)
 
   vanilla javascript input mask

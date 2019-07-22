@@ -148,6 +148,8 @@ Javascript tools
 
 - [amCharts](https://www.amcharts.com/)
 
+- [Frappe](https://frappe.io/charts)
+
 ### Js-dialog / alert / notification
 
 - [SweetAlert ](https://github.com/t4t5/sweetalert)

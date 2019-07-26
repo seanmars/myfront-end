@@ -105,6 +105,10 @@ Javascript tools
 
   Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps https://handsontable.com
 
+- [jExcel](https://github.com/paulhodel/jexcel)
+
+  jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software. https://bossanova.uk/jexcel
+
 - [Particleground](https://github.com/jnicol/particleground)
 
   A jQuery plugin for snazzy background particle systems

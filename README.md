@@ -233,6 +233,10 @@ Javascript tools
 - [ModularAdmin](https://github.com/modularcode/modular-admin-html)
 
   ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
+  
+- [separator-generator](https://github.com/wwebdev/separator-generator)
+
+  A generator for section separators
 
 ## Style framework
 
